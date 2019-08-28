@@ -8,12 +8,9 @@
 
 ### Home IPNEX
 <img src="https://ipnex.github.io/Ben Wolf 320.jpg" >
-<a class="twitter-timeline"
-  href="https://twitter.com/ipnex"
-  data-width="300"
-  data-height="300">
-Tweets by @TwitterDev
-</a>
+
+<blockquote class="twitter-tweet"><p lang="tl" dir="ltr">IPNEX<a href="https://t.co/G6J96AKSam">https://t.co/G6J96AKSam</a></p>&mdash; IPNEX (@IPNEX) <a href="https://twitter.com/IPNEX/status/1166710266865885184?ref_src=twsrc%5Etfw">August 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <h3 id="contact">Contact</h3>
 <p><strong>E-Mail: <a href="https://ipnex.github@gmail.com">ipnex.github@gmail.com</a></strong></p>
 
