@@ -14,7 +14,7 @@
 
 <p><strong>URL: <a href="https://ipnex.github.io">https://ipnex.github.io</a></strong></p>
 
-### Find Us
+### Find
 **[twitter](https://twitter.com/IPNEX)&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/ipnex)**
 
 <p>Copyright © 2019 IPNEX</p>
