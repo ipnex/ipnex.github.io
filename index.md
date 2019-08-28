@@ -4,7 +4,7 @@
 
 ## <a href="https://ipnex.github.io/">Home</a>  <a href="https://ipnex.github.io/about">About</a>  <a href="https://ipnex.github.io/contact">Contact</a>  <a href="https://ipnex.github.io/menu">Menu</a>
 
-### Home IPNEX\
+### Home IPNEX
 
 <p><strong>Welcome to IPNEX</a></strong></p>
 <br>
