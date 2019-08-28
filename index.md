@@ -2,10 +2,11 @@
 
 ## <a href="https://ipnex.github.io/">Home</a>  <a href="https://ipnex.github.io/about">About</a>  <a href="https://ipnex.github.io/contact">Contact</a>  <a href="https://ipnex.github.io/menu">Menu</a>
 
-### Home IPNEX
-<h3 id="contact">Contact</h3>
-<p><strong>Phone: <a href="tel:xxxx">xxxx</a></strong></p>
+### Home IPNEX\
 
+<p><strong>Welcome to IPNEX</a></strong></p>
+<br>
+<h3 id="contact">Contact</h3>
 <p><strong>E-Mail: <a href="https://ipnex.github@gmail.com">ipnex.github@gmail.com</a></strong></p>
 
 <p><strong>URL: <a href="https://ipnex.github.io">https://ipnex.github.io</a></strong></p>
