@@ -1,6 +1,6 @@
 <link rel="shortcut icon" href="/IPNEX favicon.ico">
 
-<p><b><font size="7">IPNEX</font></b></p>
+<p><b><font size="6">IPNEX</font></b></p>
 
 ## <a href="https://ipnex.github.io/">Home</a>
 
