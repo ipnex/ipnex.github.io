@@ -6,7 +6,6 @@
 
 **<a href="https://ipnex.github.io/">Home</a>**
 
-### Home IPNEX
 <img src="https://ipnex.github.io/X.jpg" >
 
 <h3 id="contact">Contact</h3>
