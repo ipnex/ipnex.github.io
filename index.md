@@ -1,4 +1,5 @@
-<link rel="shortcut icon" href="/IPNEX-16.png">
+<link rel="icon" href="https://ipnex.github.io/IPNEX.ico" type="image/x-icon"/>
+<link rel="icon" href="https://ipnex.github.io/IPNEX-16.png" type="image/x-icon"/>
 
 <p><b><font size="7">IPNEX</font></b></p>
 
