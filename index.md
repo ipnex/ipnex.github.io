@@ -4,7 +4,7 @@
   
 <p><b><font size="7">IPNEX</font></b></p>
 
-**<a href="https://ipnex.github.io/">Home</a>**
+### <a href="https://ipnex.github.io/">Home</a>
 
 <img src="https://ipnex.github.io/X.jpg" >
 
