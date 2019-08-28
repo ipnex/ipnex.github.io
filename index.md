@@ -1,6 +1,6 @@
 <p><b><font size="7">IPNEX</font></b></p>
 
-<a href="https://ipnex.github.io/">Home</a>  <a href="https://ipnex.github.io/about">About</a>  <a href="https://ipnex.github.io/contact">Contact</a>  <a href="https://ipnex.github.io/menu">Menu</a>
+## <a href="https://ipnex.github.io/">Home</a>  <a href="https://ipnex.github.io/about">About</a>  <a href="https://ipnex.github.io/contact">Contact</a>  <a href="https://ipnex.github.io/menu">Menu</a>
 
 Home IPNEX</h3>
 <h3 id="contact">Contact</h3>
