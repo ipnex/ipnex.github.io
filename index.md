@@ -8,7 +8,7 @@
 
 <p><strong>Welcome to IPNEX</strong></p>
 
-<img src="https://ipnex.github.io/Ben Wolf 320.jpg" align="middle" />
+<img src="https://ipnex.github.io/Ben Wolf 320.jpg" >
 
 <h3 id="contact">Contact</h3>
 <p><strong>E-Mail: <a href="https://ipnex.github@gmail.com">ipnex.github@gmail.com</a></strong></p>
