@@ -1,6 +1,7 @@
+<head>
 <link rel="icon" href="https://ipnex.github.io/IPNEX.ico" type="image/x-icon"/>
-<link rel="icon" href="https://ipnex.github.io/IPNEX-16.png" type="image/x-icon"/>
-
+</head>
+  
 <p><b><font size="7">IPNEX</font></b></p>
 
 ## <a href="https://ipnex.github.io/">Home</a>
