@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+<p><b><font size="7">IPNEX</font></b></p>
 
-You can use the [editor on GitHub](https://github.com/ipnex/ipnex.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<a href="https://ipnex.github.io/">Home</a>  <a href="https://ipnex.github.io/about">About</a>  <a href="https://ipnex.github.io/contact">Contact</a>  <a href="https://ipnex.github.io/menu">Menu</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Home IPNEX</h3>
+<h3 id="contact">Contact</h3>
+<p><strong>Phone: <a href="tel:xxxx">xxxx</a></strong></p>
 
-### Markdown
+<p><strong>E-Mail: <a href="https://ipnex.github@gmail.com">ipnex.github@gmail.com</a></strong></p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p><strong>URL: <a href="https://ipnex.github.io">https://ipnex.github.io</a></strong></p>
 
-```markdown
-Syntax highlighted code block
+<p><strong><a href="https://twitter.com/ipnex">twitter</a>  <a href="https://www.instagram.com/ipnex">instagram</a></strong></p>
 
-# Header 1
-## Header 2
-### Header 3
+<p><strong><a href="https://ipnex.github.io/legal">Legal</a></strong></p>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ipnex/ipnex.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p>Copyright © 2019 IPNEX</p>
