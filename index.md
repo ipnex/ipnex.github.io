@@ -2,7 +2,7 @@
 
 ## <a href="https://ipnex.github.io/">Home</a>  <a href="https://ipnex.github.io/about">About</a>  <a href="https://ipnex.github.io/contact">Contact</a>  <a href="https://ipnex.github.io/menu">Menu</a>
 
-Home IPNEX</h3>
+### Home IPNEX
 <h3 id="contact">Contact</h3>
 <p><strong>Phone: <a href="tel:xxxx">xxxx</a></strong></p>
 
